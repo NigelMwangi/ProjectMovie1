@@ -1,4 +1,4 @@
-# ProjectMovie1
+# Exploring Films to Elevate Creative Excellence in our New Movies
  This Project aims to establish a robust inhouse production capability that will allow us to create captivating film, compete with other production studios, and generate significant profits.
  
  
