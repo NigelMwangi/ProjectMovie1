@@ -1,4 +1,7 @@
 # Exploring Films to Elevate Creative Excellence in our New Movies
+
+ ## <b> Introduction </b>
+
  This Project aims to establish a robust inhouse production capability that will allow us to create captivating film, compete with other production studios, and generate significant profits.
  
  
@@ -39,3 +42,17 @@ Embrace Diversity and Inclusivity: Recognize the significance of diversity and i
 2. Jupyter notebook - Major work on the Data analysis carried out in this Project
 3. Pdf On Presentation Content - A Summary of the project
 4. Slides Limks - Presentation on the work Flow of the Project
+
+## For The Links of the Google Slides(https://docs.google.com/presentation/d/1xBUHQmVbouom9Orl8Ekc0n9FuklV3EOjWTGeA016vFw/edit#slide=id.p)
+
+And for the Various DataSets
+
+Box Office Mojo(https://www.boxofficemojo.com/) to an external site.
+
+IMDB(https://www.imdb.com/) to an external site.
+
+Rotten Tomatoes(https://www.rottentomatoes.com/) to an external site.
+
+TheMovieDB(https://www.themoviedb.org/) to an external site.
+
+The Numbers(https://www.the-numbers.com/) to an external site.
