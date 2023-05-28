@@ -33,3 +33,9 @@ Implications and Decision Making: Derived actionable insights from the analysis 
 <b>Leverage Successful Genres:</b> Based on the analysis of box office performance, focus on genres that have consistently performed well in recent years. This includes superhero and comic book films, fantasy and science fiction, action and adventure, and animated movies. Incorporate elements from these genres into our film concepts to capitalize on their popularity and attract a broad audience.
 
 Embrace Diversity and Inclusivity: Recognize the significance of diversity and inclusivity in storytelling. Ensure that our films reflect a range of perspectives and experiences, appealing to a diverse audience. By incorporating diverse characters, cultures, and themes, we can create more inclusive narratives that resonate with viewers.
+
+<b> Instructons on the navigation of the repository </b>
+1. Datasets - Containing all the dats used in this Project
+2. Jupyter notebook - Major work on the Data analysis carried out in this Project
+3. Pdf On Presentation Content - A Summary of the project
+4. Slides Limks - Presentation on the work Flow of the Project
